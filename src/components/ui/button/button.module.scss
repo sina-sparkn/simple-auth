@@ -37,12 +37,6 @@
     padding: 8px 16px;
     font-size: 14px;
     border-radius: 8px;
-
-    .spinner {
-      width: 16px;
-      height: 16px;
-      border-width: 1.5px;
-    }
   }
 
   &.md {
@@ -54,15 +48,8 @@
     padding: 18px 32px;
     font-size: 18px;
     border-radius: 16px;
-
-    .spinner {
-      width: 24px;
-      height: 24px;
-      border-width: 2.5px;
-    }
   }
 
-  // Style variants
   &.primary {
     background: #007aff;
     color: white;

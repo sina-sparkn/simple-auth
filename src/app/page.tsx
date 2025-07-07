@@ -8,10 +8,10 @@ export default function Home() {
       <h1>main page</h1>
 
       <div className={styles.ButtonContainer}>
-        <Link className={styles.Button} href={"/auth"}>
+        <Link className={styles.link} href={"/auth"}>
           login
         </Link>
-        <Link className={styles.Button} href={"/dashboard"}>
+        <Link className={styles.link} href={"/dashboard"}>
           dashboard
         </Link>
       </div>
