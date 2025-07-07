@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Jill", "last": "Horton" },
+      "location": {
+        "street": { "number": 1185, "name": "Spring St" },
+        "city": "Burkburnett",
+        "state": "New Jersey",
+        "country": "United States",
+        "postcode": 44002,
+        "coordinates": { "latitude": "69.9987", "longitude": "31.8144" },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "jill.horton@example.com",
+      "login": {
+        "uuid": "76981c19-6598-46a0-b68c-13f474c6d9eb",
+        "username": "smallbutterfly278",
+        "password": "laser",
+        "salt": "xJHyPcDy",
+        "md5": "8ac1040648ef7b2343293886e023b826",
+        "sha1": "75b879a592c6b924834d62716b0be8907dff4abc",
+        "sha256": "985ac2f33072b05c84862520d34260557ebed27cb801709e9112362f6e273e9d"
+      },
+      "dob": { "date": "1999-10-03T03:38:13.313Z", "age": 25 },
+      "registered": { "date": "2007-04-16T12:07:22.494Z", "age": 18 },
+      "phone": "(474) 869-7659",
+      "cell": "(578) 877-7803",
+      "id": { "name": "SSN", "value": "770-96-2813" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/48.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "info": {
+    "seed": "f9a6e611a122bca0",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
